@@ -1,0 +1,42 @@
+
+bootstrap.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 68
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 804, 515
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+loading_empty
+  rotate: false
+  xy: 2, 58
+  size: 406, 8
+  orig: 406, 8
+  offset: 0, 0
+  index: -1
+loading_full_patch
+  rotate: false
+  xy: 410, 58
+  size: 16, 8
+  split: 6, 6, 3, 3
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 2
+  size: 322, 54
+  orig: 322, 54
+  offset: 0, 0
+  index: -1

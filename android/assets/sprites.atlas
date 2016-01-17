@@ -1,0 +1,284 @@
+
+sprites.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+asteroid
+  rotate: false
+  xy: 1163, 117
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+asteroid_core
+  rotate: false
+  xy: 1418, 432
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+asteroid_parts
+  rotate: false
+  xy: 1508, 1582
+  size: 127, 112
+  orig: 127, 112
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 1508, 1847
+  size: 206, 180
+  orig: 206, 180
+  offset: 0, 0
+  index: -1
+death_beam
+  rotate: false
+  xy: 1295, 245
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+energy_beam
+  rotate: false
+  xy: 1508, 1438
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 1508, 1698
+  size: 169, 145
+  orig: 169, 145
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 4, 527
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 4, 4
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 1163, 213
+  size: 128, 172
+  orig: 128, 172
+  offset: 0, 0
+  index: -1
+portrait_d
+  rotate: false
+  xy: 908, 25
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+portrait_g
+  rotate: false
+  xy: 996, 25
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+portrait_o
+  rotate: false
+  xy: 1084, 25
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+ruins
+  rotate: false
+  xy: 908, 389
+  size: 251, 134
+  orig: 251, 134
+  offset: 0, 0
+  index: -1
+settlement_1
+  rotate: false
+  xy: 1718, 1893
+  size: 251, 134
+  orig: 251, 134
+  offset: 0, 0
+  index: -1
+settlement_2
+  rotate: false
+  xy: 908, 251
+  size: 251, 134
+  orig: 251, 134
+  offset: 0, 0
+  index: -1
+settlement_3
+  rotate: false
+  xy: 1163, 389
+  size: 251, 134
+  orig: 251, 134
+  offset: 0, 0
+  index: -1
+settlement_4
+  rotate: false
+  xy: 908, 113
+  size: 251, 134
+  orig: 251, 134
+  offset: 0, 0
+  index: -1
+space
+  rotate: false
+  xy: 4, 23
+  size: 900, 500
+  orig: 900, 500
+  offset: 0, 0
+  index: -1
+tractor_beam
+  rotate: false
+  xy: 1508, 1294
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+
+sprites2.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 4, 4
+  size: 1089, 1089
+  orig: 1089, 1089
+  offset: 0, 0
+  index: -1
+
+sprites3.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+menu/arrow_left
+  rotate: false
+  xy: 1312, 849
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+menu/arrow_right
+  rotate: false
+  xy: 769, 230
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+menu/background
+  rotate: false
+  xy: 4, 503
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+menu/btn_howtoplay
+  rotate: false
+  xy: 513, 213
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/btn_howtoplay_down
+  rotate: false
+  xy: 4, 4
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/btn_play
+  rotate: false
+  xy: 808, 530
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/btn_play_down
+  rotate: false
+  xy: 513, 157
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/btn_restart
+  rotate: false
+  xy: 513, 101
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/btn_restart_down
+  rotate: false
+  xy: 837, 474
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+menu/credits
+  rotate: false
+  xy: 808, 586
+  size: 330, 34
+  orig: 330, 34
+  offset: 0, 0
+  index: -1
+menu/logo
+  rotate: false
+  xy: 4, 60
+  size: 447, 65
+  orig: 447, 65
+  offset: 0, 0
+  index: -1
+menu/thanks_for_playing
+  rotate: false
+  xy: 808, 888
+  size: 707, 95
+  orig: 707, 95
+  offset: 0, 0
+  index: -1
+menu/tutorial_1
+  rotate: false
+  xy: 1519, 776
+  size: 380, 207
+  orig: 380, 207
+  offset: 0, 0
+  index: -1
+menu/tutorial_2
+  rotate: false
+  xy: 808, 624
+  size: 500, 260
+  orig: 500, 260
+  offset: 0, 0
+  index: -1
+menu/tutorial_3
+  rotate: false
+  xy: 513, 269
+  size: 320, 230
+  orig: 320, 230
+  offset: 0, 0
+  index: -1
+menu/tutorial_4
+  rotate: false
+  xy: 4, 129
+  size: 505, 370
+  orig: 505, 370
+  offset: 0, 0
+  index: -1
+menu/version
+  rotate: false
+  xy: 1903, 974
+  size: 87, 9
+  orig: 87, 9
+  offset: 0, 0
+  index: -1

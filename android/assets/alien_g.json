@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"44MN0/ys9apAYI0h304el3bK7XE","spine":"2.1.27","width":169,"height":145,"images":"./../sprites/"},"bones":[{"name":"root"}],"slots":[{"name":"character","bone":"root","attachment":"g"}],"skins":{"default":{"character":{"g":{"width":169,"height":145}}}},"animations":{"animation":{}}}

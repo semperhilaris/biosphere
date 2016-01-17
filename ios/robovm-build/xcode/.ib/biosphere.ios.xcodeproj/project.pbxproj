@@ -1,0 +1,353 @@
+{
+	"archiveVersion" = "1";
+	"classes" =
+		{
+		};
+	"objectVersion" = "46";
+	"objects" =
+		{
+			"100000000000000000000002" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("86862B2165FC4066BCD7BE4D", "AFCFADD0962E4E3F907ECB9B");
+					"sourceTree" = "<group>";
+				};
+			"100000000000000000000006" =
+				{
+					"isa" = "PBXNativeTarget";
+					"buildPhases" =
+						("100000000000000000000007");
+					"buildRules" =
+						();
+					"dependencies" =
+						();
+					"name" = "test";
+					"productName" = "test";
+					"productType" = "com.apple.product-type.application";
+				};
+			"100000000000000000000001" =
+				{
+					"isa" = "PBXProject";
+					"attributes" =
+						{
+							"LastUpgradeCheck" = "0620";
+						};
+					"buildConfigurationList" = "100000000000000000000003";
+					"compatibilityVersion" = "Xcode 3.2";
+					"developmentRegion" = "English";
+					"hasScannedForEncodings" = "0";
+					"knownRegions" =
+						("en");
+					"mainGroup" = "100000000000000000000002";
+					"projectDirPath" = "";
+					"projectRoot" = "";
+					"targets" =
+						("100000000000000000000006");
+				};
+			"100000000000000000000007" =
+				{
+					"isa" = "PBXSourcesBuildPhase";
+					"buildActionMask" = "2147483647";
+					"files" =
+						();
+					"runOnlyForDeploymentPostprocessing" = "0";
+				};
+			"100000000000000000000004" =
+				{
+					"isa" = "XCBuildConfiguration";
+					"buildSettings" =
+						{
+							"INFOPLIST_FILE" = "/Users/david/Development/biosphere/ios/Info.plist.xml";
+							"SDKROOT" = "iphoneos";
+							"TARGETED_DEVICE_FAMILY" = "1,2";
+							"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+							"GCC_PREFIX_HEADER" = "/Users/david/Development/biosphere/ios/robovm-build/xcode/.ib/Prefix.pch";
+						};
+					"name" = "Debug";
+				};
+			"100000000000000000000005" =
+				{
+					"isa" = "XCBuildConfiguration";
+					"buildSettings" =
+						{
+							"INFOPLIST_FILE" = "/Users/david/Development/biosphere/ios/Info.plist.xml";
+							"SDKROOT" = "iphoneos";
+							"TARGETED_DEVICE_FAMILY" = "1,2";
+							"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+							"GCC_PREFIX_HEADER" = "/Users/david/Development/biosphere/ios/robovm-build/xcode/.ib/Prefix.pch";
+						};
+					"name" = "Release";
+				};
+			"100000000000000000000003" =
+				{
+					"isa" = "XCConfigurationList";
+					"buildConfigurations" =
+						("100000000000000000000004", "100000000000000000000005");
+					"defaultConfigurationIsVisible" = "0";
+					"defaultConfigurationName" = "Release";
+				};
+			"86862B2165FC4066BCD7BE4D" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("C5B141871CCB495282406C7A", "F5A6401852004412A658BD00", "2901DAB9C20542F5AAEFE88E",
+ "16E661DC063C4FCEAB19BDA7", "B453F831097E479E819723D9", "3A9E1F19614D40B6A8D2A783",
+ "1C7D09BE230D42D39CAD8887", "AD9DDD47BA114E46AA2880FE", "9565A8C587D34316A734FE3D",
+ "7AEB1A87DBF2460EB441338A", "8239A7B338A84BBBAB7EC706", "309D41376F0A4D9696B525FD",
+ "EFB8625129554DD0A149FF3F", "00167E5BF0F44D11803CE8FE", "4954E664418545F49B46BE24",
+ "A161B00CE1EA41E2906B9DC2", "294369C74FAB45738C3580F6", "04986315E18D4163A6A51E65"
+);
+					"name" = "Resources";
+					"sourceTree" = "<absolute>";
+					"path" = "/Users/david/Development/biosphere/ios/../android/assets";
+				};
+			"6D720428278840B5959EF85C" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Info.plist";
+					"explicitFileType" = "text.plist.info";
+					"sourceTree" = "<group>";
+					"path" = "Info.plist.xml";
+				};
+			"AFCFADD0962E4E3F907ECB9B" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("6D720428278840B5959EF85C");
+					"name" = "Supporting Files";
+					"sourceTree" = "<absolute>";
+					"path" = "/Users/david/Development/biosphere/ios";
+				};
+			"290ADD5273EB447C902C9DAE" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "kenvector_future.ttf";
+					"lastKnownFileType" = "file";
+					"sourceTree" = "<group>";
+					"path" = "kenvector_future.ttf";
+				};
+			"C5B141871CCB495282406C7A" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("290ADD5273EB447C902C9DAE", "17821598059146A486B9CA7A");
+					"name" = "fonts";
+					"sourceTree" = "<group>";
+					"path" = "fonts";
+				};
+			"17821598059146A486B9CA7A" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "kenvector_future_thin.ttf";
+					"lastKnownFileType" = "file";
+					"sourceTree" = "<group>";
+					"path" = "kenvector_future_thin.ttf";
+				};
+			"D95ABA6907C4490E85410664" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "entis_default.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "entis_default.png";
+				};
+			"F5A6401852004412A658BD00" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("D95ABA6907C4490E85410664", "C9B0E962C2FB4C9C8ED69B67", "656CDF09C2DD48DE969AE210",
+ "24BA779B0278421EA2E56AD1", "4006CFEF53E4403399BFD837");
+					"name" = "images";
+					"sourceTree" = "<group>";
+					"path" = "images";
+				};
+			"C9B0E962C2FB4C9C8ED69B67" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "entis_hover.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "entis_hover.png";
+				};
+			"656CDF09C2DD48DE969AE210" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "slick_arrow-arrow.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "slick_arrow-arrow.png";
+				};
+			"24BA779B0278421EA2E56AD1" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "slick_arrow-delta.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "slick_arrow-delta.png";
+				};
+			"4006CFEF53E4403399BFD837" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "slick_arrow-triangular.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "slick_arrow-triangular.png";
+				};
+			"9E8C50CB36D94ECABFA3A869" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "death_beam.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "death_beam.png";
+				};
+			"2901DAB9C20542F5AAEFE88E" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("9E8C50CB36D94ECABFA3A869", "65A2C6A416284AA9A89AE8E7", "2FC3A6A684BD43CC8837032C"
+);
+					"name" = "textures";
+					"sourceTree" = "<group>";
+					"path" = "textures";
+				};
+			"65A2C6A416284AA9A89AE8E7" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "energy_beam.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "energy_beam.png";
+				};
+			"2FC3A6A684BD43CC8837032C" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "tractor_beam.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "tractor_beam.png";
+				};
+			"B453F831097E479E819723D9" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default-375w-667h@2x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default-375w-667h@2x.png";
+				};
+			"3A9E1F19614D40B6A8D2A783" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default-414w-736h@3x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default-414w-736h@3x.png";
+				};
+			"1C7D09BE230D42D39CAD8887" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default-568h@2x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default-568h@2x.png";
+				};
+			"AD9DDD47BA114E46AA2880FE" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default.png";
+				};
+			"9565A8C587D34316A734FE3D" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default@2x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default@2x.png";
+				};
+			"7AEB1A87DBF2460EB441338A" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default@2x~ipad.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default@2x~ipad.png";
+				};
+			"8239A7B338A84BBBAB7EC706" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Default~ipad.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Default~ipad.png";
+				};
+			"309D41376F0A4D9696B525FD" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Icon-72.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Icon-72.png";
+				};
+			"EFB8625129554DD0A149FF3F" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Icon-72@2x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Icon-72@2x.png";
+				};
+			"00167E5BF0F44D11803CE8FE" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Icon.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Icon.png";
+				};
+			"4954E664418545F49B46BE24" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Icon@2x.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "Icon@2x.png";
+				};
+			"A161B00CE1EA41E2906B9DC2" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "sprites.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "sprites.png";
+				};
+			"294369C74FAB45738C3580F6" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "sprites2.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "sprites2.png";
+				};
+			"04986315E18D4163A6A51E65" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "sprites3.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "sprites3.png";
+				};
+			"16E661DC063C4FCEAB19BDA7" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "bootstrap.png";
+					"lastKnownFileType" = "image.png";
+					"sourceTree" = "<group>";
+					"path" = "bootstrap.png";
+				};
+		};
+	"rootObject" = "100000000000000000000001";
+}

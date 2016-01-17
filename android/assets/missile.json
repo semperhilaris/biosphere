@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"XHXJlfGcYxK7cnKHqdUMXrFLNRo","spine":"2.1.27","width":15,"height":62,"images":"./../sprites/"},"bones":[{"name":"root"}],"slots":[{"name":"missile","bone":"root","attachment":"missile"}],"skins":{"default":{"missile":{"missile":{"rotation":90,"width":62,"height":15}}}},"animations":{"animation":{}}}
